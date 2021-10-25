@@ -1,0 +1,734 @@
+[
+    {
+        "stockSign": "NIFTY 50",
+        "stockName": "NIFTY"
+    },
+    {
+        "stockSign": "NIFTY BANK",
+        "stockName": "BANKNIFTY"
+    },
+    {
+        "stockSign": "NIFTY FINANCIAL SERVICES",
+        "stockName": "FINNIFTY"
+    },
+    {
+        "stockSign": "ADITYA BIRLA FASHION & RT",
+        "stockName": "ABFRL"
+    },
+    {
+        "stockSign": "ACC LIMITED",
+        "stockName": "ACC"
+    },
+    {
+        "stockSign": "ABBOTT INDIA LIMITED",
+        "stockName": "ABBOTINDIA"
+    },
+    {
+        "stockSign": "AARTI INDUSTRIES LTD",
+        "stockName": "AARTIIND"
+    },
+    {
+        "stockSign": "ADANI ENTERPRISES LIMITED",
+        "stockName": "ADANIENT"
+    },
+    {
+        "stockSign": "ADANI PORT & SEZ LTD",
+        "stockName": "ADANIPORTS"
+    },
+    {
+        "stockSign": "ALKEM LABORATORIES LTD.",
+        "stockName": "ALKEM"
+    },
+    {
+        "stockSign": "AMARA RAJA BATTERIES LTD.",
+        "stockName": "AMARAJABAT"
+    },
+    {
+        "stockSign": "ALEMBIC PHARMA LTD",
+        "stockName": "APLLTD"
+    },
+    {
+        "stockSign": "APOLLO TYRES LTD",
+        "stockName": "APOLLOTYRE"
+    },
+    {
+        "stockSign": "ASHOK LEYLAND LTD",
+        "stockName": "ASHOKLEY"
+    },
+    {
+        "stockSign": "ASIAN PAINTS LIMITED",
+        "stockName": "ASIANPAINT"
+    },
+    {
+        "stockSign": "AU SMALL FINANCE BANK LTD",
+        "stockName": "AUBANK"
+    },
+    {
+        "stockSign": "AUROBINDO PHARMA LTD",
+        "stockName": "AUROPHARMA"
+    },
+    {
+        "stockSign": "AXIS BANK LIMITED",
+        "stockName": "AXISBANK"
+    },
+    {
+        "stockSign": "BAJAJ AUTO LIMITED",
+        "stockName": "BAJAJ - AUTO"
+    },
+    {
+        "stockSign": "BAJAJ FINSERV LTD.",
+        "stockName": "BAJAJFINSV"
+    },
+    {
+        "stockSign": "BAJAJ FINANCE LIMITED",
+        "stockName": "BAJFINANCE"
+    },
+    {
+        "stockSign": "BALKRISHNA IND. LTD",
+        "stockName": "BALKRISIND"
+    },
+    {
+        "stockSign": "BANDHAN BANK LIMITED",
+        "stockName": "BANDHANBNK"
+    },
+    {
+        "stockSign": "BHARAT ELECTRONICS LTD",
+        "stockName": "BEL"
+    },
+    {
+        "stockSign": "BERGER PAINTS (I) LTD",
+        "stockName": "BERGEPAINT"
+    },
+    {
+        "stockSign": "BHARAT FORGE LTD",
+        "stockName": "BHARATFORG"
+    },
+    {
+        "stockSign": "BHARTI AIRTEL LIMITED",
+        "stockName": "BHARTIARTL"
+    },
+    {
+        "stockSign": "BHEL",
+        "stockName": "BHEL"
+    },
+    {
+        "stockSign": "BHARAT PETROLEUM CORP  LT",
+        "stockName": "BPCL"
+    },
+    {
+        "stockSign": "BRITANNIA INDUSTRIES LTD",
+        "stockName": "BRITANNIA"
+    },
+    {
+        "stockSign": "CADILA HEALTHCARE LIMITED",
+        "stockName": "CADILAHC"
+    },
+    {
+        "stockSign": "CANARA BANK",
+        "stockName": "CANBK"
+    },
+    {
+        "stockSign": "CHOLAMANDALAM IN & FIN CO",
+        "stockName": "CHOLAFIN"
+    },
+    {
+        "stockSign": "CIPLA LTD",
+        "stockName": "CIPLA"
+    },
+    {
+        "stockSign": "COFORGE LIMITED",
+        "stockName": "COFORGE"
+    },
+    {
+        "stockSign": "CONTAINER CORP OF IND LTD",
+        "stockName": "CONCOR"
+    },
+    {
+        "stockSign": "APOLLO HOSPITALS ENTER. L",
+        "stockName": "APOLLOHOSP"
+    },
+    {
+        "stockSign": "COROMANDEL INTERNTL. LTD",
+        "stockName": "COROMANDEL"
+    },
+    {
+        "stockSign": "CUMMINS INDIA LTD",
+        "stockName": "CUMMINSIND"
+    },
+    {
+        "stockSign": "CAN FIN HOMES LTD",
+        "stockName": "CANFINHOME"
+    },
+    {
+        "stockSign": "DABUR INDIA LTD",
+        "stockName": "DABUR"
+    },
+    {
+        "stockSign": "ASTRAL LIMITED",
+        "stockName": "ASTRAL"
+    },
+    {
+        "stockSign": "DEEPAK NITRITE LTD",
+        "stockName": "DEEPAKNTR"
+    },
+    {
+        "stockSign": "GODREJ CONSUMER PRODUCTS",
+        "stockName": "GODREJCP"
+    },
+    {
+        "stockSign": "BATA INDIA LTD",
+        "stockName": "BATAINDIA"
+    },
+    {
+        "stockSign": "HINDUSTAN AERONAUTICS LTD",
+        "stockName": "HAL"
+    },
+    {
+        "stockSign": "DIVI'S LABORATORIES LTD",
+        "stockName": "DIVISLAB"
+    },
+    {
+        "stockSign": "DR. REDDY'S LABORATORIES",
+        "stockName": "DRREDDY"
+    },
+    {
+        "stockSign": "ESCORTS INDIA LTD",
+        "stockName": "ESCORTS"
+    },
+    {
+        "stockSign": "EXIDE INDUSTRIES LTD",
+        "stockName": "EXIDEIND"
+    },
+    {
+        "stockSign": "FEDERAL BANK LTD",
+        "stockName": "FEDERALBNK"
+    },
+    {
+        "stockSign": "GAIL (INDIA) LTD",
+        "stockName": "GAIL"
+    },
+    {
+        "stockSign": "GLENMARK PHARMACEUTICALS",
+        "stockName": "GLENMARK"
+    },
+    {
+        "stockSign": "HDFC AMC LIMITED",
+        "stockName": "HDFCAMC"
+    },
+    {
+        "stockSign": "GODREJ PROPERTIES LTD",
+        "stockName": "GODREJPROP"
+    },
+    {
+        "stockSign": "HINDUSTAN UNILEVER LTD.",
+        "stockName": "HINDUNILVR"
+    },
+    {
+        "stockSign": "GRANULES INDIA LIMITED",
+        "stockName": "GRANULES"
+    },
+    {
+        "stockSign": "GRASIM INDUSTRIES LTD",
+        "stockName": "GRASIM"
+    },
+    {
+        "stockSign": "HCL TECHNOLOGIES LTD",
+        "stockName": "HCLTECH"
+    },
+    {
+        "stockSign": "HDFC LTD",
+        "stockName": "HDFC"
+    },
+    {
+        "stockSign": "ICICI LOMBARD GIC LIMITED",
+        "stockName": "ICICIGI"
+    },
+    {
+        "stockSign": "HINDALCO  INDUSTRIES  LTD",
+        "stockName": "HINDALCO"
+    },
+    {
+        "stockSign": "HINDUSTAN PETROLEUM CORP",
+        "stockName": "HINDPETRO"
+    },
+    {
+        "stockSign": "ICICI BANK LTD.",
+        "stockName": "ICICIBANK"
+    },
+    {
+        "stockSign": "ICICI PRU LIFE INS CO LTD",
+        "stockName": "ICICIPRULI"
+    },
+    {
+        "stockSign": "INDRAPRASTHA GAS LTD",
+        "stockName": "IGL"
+    },
+    {
+        "stockSign": "THE INDIAN HOTELS CO. LTD",
+        "stockName": "INDHOTEL"
+    },
+    {
+        "stockSign": "INTERGLOBE AVIATION LTD",
+        "stockName": "INDIGO"
+    },
+    {
+        "stockSign": "INDUSIND BANK LIMITED",
+        "stockName": "INDUSINDBK"
+    },
+    {
+        "stockSign": "INDIAN OIL CORP LTD",
+        "stockName": "IOC"
+    },
+    {
+        "stockSign": "BOSCH LIMITED",
+        "stockName": "BOSCHLTD"
+    },
+    {
+        "stockSign": "INDIAN ENERGY EXC LTD",
+        "stockName": "IEX"
+    },
+    {
+        "stockSign": "INDIAN RAIL TOUR CORP LTD",
+        "stockName": "IRCTC"
+    },
+    {
+        "stockSign": "JINDAL STEEL & POWER LTD",
+        "stockName": "JINDALSTEL"
+    },
+    {
+        "stockSign": "JSW STEEL LIMITED",
+        "stockName": "JSWSTEEL"
+    },
+    {
+        "stockSign": "JUBILANT FOODWORKS LTD",
+        "stockName": "JUBLFOOD"
+    },
+    {
+        "stockSign": "KOTAK MAHINDRA BANK LTD",
+        "stockName": "KOTAKBANK"
+    },
+    {
+        "stockSign": "DR. LAL PATH LABS LTD.",
+        "stockName": "LALPATHLAB"
+    },
+    {
+        "stockSign": "L&T INFOTECH LIMITED",
+        "stockName": "LTI"
+    },
+    {
+        "stockSign": "LUPIN LIMITED",
+        "stockName": "LUPIN"
+    },
+    {
+        "stockSign": "MAHINDRA & MAHINDRA LTD",
+        "stockName": "M & M"
+    },
+    {
+        "stockSign": "IPCA LABORATORIES LTD",
+        "stockName": "IPCALAB"
+    },
+    {
+        "stockSign": "MARICO LIMITED",
+        "stockName": "MARICO"
+    },
+    {
+        "stockSign": "METROPOLIS HEALTHCARE LTD",
+        "stockName": "METROPOLIS"
+    },
+    {
+        "stockSign": "MAHANAGAR GAS LTD.",
+        "stockName": "MGL"
+    },
+    {
+        "stockSign": "COAL INDIA LTD",
+        "stockName": "COALINDIA"
+    },
+    {
+        "stockSign": "MINDTREE LIMITED",
+        "stockName": "MINDTREE"
+    },
+    {
+        "stockSign": "MOTHERSON SUMI SYSTEMS LT",
+        "stockName": "MOTHERSUMI"
+    },
+    {
+        "stockSign": "MPHASIS LIMITED",
+        "stockName": "MPHASIS"
+    },
+    {
+        "stockSign": "MRF LTD",
+        "stockName": "MRF"
+    },
+    {
+        "stockSign": "CROMPT GREA CON ELEC LTD",
+        "stockName": "CROMPTON"
+    },
+    {
+        "stockSign": "L&T TECHNOLOGY SER. LTD.",
+        "stockName": "LTTS"
+    },
+    {
+        "stockSign": "NATIONAL ALUMINIUM CO LTD",
+        "stockName": "NATIONALUM"
+    },
+    {
+        "stockSign": "NAVIN FLUORINE INT. LTD",
+        "stockName": "NAVINFLUOR"
+    },
+    {
+        "stockSign": "NESTLE INDIA LIMITED",
+        "stockName": "NESTLEIND"
+    },
+    {
+        "stockSign": "NMDC LTD.",
+        "stockName": "NMDC"
+    },
+    {
+        "stockSign": "NTPC LTD",
+        "stockName": "NTPC"
+    },
+    {
+        "stockSign": "PETRONET LNG LIMITED",
+        "stockName": "PETRONET"
+    },
+    {
+        "stockSign": "POWER FIN CORP LTD.",
+        "stockName": "PFC"
+    },
+    {
+        "stockSign": "PIDILITE INDUSTRIES LTD",
+        "stockName": "PIDILITIND"
+    },
+    {
+        "stockSign": "PUNJAB NATIONAL BANK",
+        "stockName": "PNB"
+    },
+    {
+        "stockSign": "POWER GRID CORP. LTD.",
+        "stockName": "POWERGRID"
+    },
+    {
+        "stockSign": "PVR LIMITED",
+        "stockName": "PVR"
+    },
+    {
+        "stockSign": "THE RAMCO CEMENTS LIMITED",
+        "stockName": "RAMCOCEM"
+    },
+    {
+        "stockSign": "RBL BANK LIMITED",
+        "stockName": "RBLBANK"
+    },
+    {
+        "stockSign": "REC LIMITED",
+        "stockName": "RECLTD"
+    },
+    {
+        "stockSign": "RELIANCE INDUSTRIES LTD",
+        "stockName": "RELIANCE"
+    },
+    {
+        "stockSign": "DELTA CORP LIMITED",
+        "stockName": "DELTACORP"
+    },
+    {
+        "stockSign": "SBI LIFE INSURANCE CO LTD",
+        "stockName": "SBILIFE"
+    },
+    {
+        "stockSign": "STATE BANK OF INDIA",
+        "stockName": "SBIN"
+    },
+    {
+        "stockSign": "SHREE CEMENT LIMITED",
+        "stockName": "SHREECEM"
+    },
+    {
+        "stockSign": "DIXON TECHNO (INDIA) LTD",
+        "stockName": "DIXON"
+    },
+    {
+        "stockSign": "SRF LTD",
+        "stockName": "SRF"
+    },
+    {
+        "stockSign": "INFO EDGE (I) LTD",
+        "stockName": "NAUKRI"
+    },
+    {
+        "stockSign": "EICHER MOTORS LTD",
+        "stockName": "EICHERMOT"
+    },
+    {
+        "stockSign": "SHRIRAM TRANSPORT FIN CO.",
+        "stockName": "SRTRANSFIN"
+    },
+    {
+        "stockSign": "ORACLE FIN SERV SOFT LTD.",
+        "stockName": "OFSS"
+    },
+    {
+        "stockSign": "POLYCAB INDIA LIMITED",
+        "stockName": "POLYCAB"
+    },
+    {
+        "stockSign": "GMR INFRASTRUCTURE LTD.",
+        "stockName": "GMRINFRA"
+    },
+    {
+        "stockSign": "SUN PHARMACEUTICAL IND L",
+        "stockName": "SUNPHARMA"
+    },
+    {
+        "stockSign": "GUJARAT GAS LIMITED",
+        "stockName": "GUJGASLTD"
+    },
+    {
+        "stockSign": "SUN TV NETWORK LIMITED",
+        "stockName": "SUNTV"
+    },
+    {
+        "stockSign": "TATA CHEMICALS LTD",
+        "stockName": "TATACHEM"
+    },
+    {
+        "stockSign": "TATA CONSULTANCY SERV LT",
+        "stockName": "TCS"
+    },
+    {
+        "stockSign": "TATA CONSUMER PRODUCT LTD",
+        "stockName": "TATACONSUM"
+    },
+    {
+        "stockSign": "TATA POWER CO LTD",
+        "stockName": "TATAPOWER"
+    },
+    {
+        "stockSign": "TORRENT POWER LTD",
+        "stockName": "TORNTPOWER"
+    },
+    {
+        "stockSign": "TATA STEEL LIMITED",
+        "stockName": "TATASTEEL"
+    },
+    {
+        "stockSign": "HDFC LIFE INS CO LTD",
+        "stockName": "HDFCLIFE"
+    },
+    {
+        "stockSign": "TECH MAHINDRA LIMITED",
+        "stockName": "TECHM"
+    },
+    {
+        "stockSign": "INDIABULLS HSG FIN LTD",
+        "stockName": "IBULHSGFIN"
+    },
+    {
+        "stockSign": "TITAN COMPANY LIMITED",
+        "stockName": "TITAN"
+    },
+    {
+        "stockSign": "TORRENT PHARMACEUTICALS L",
+        "stockName": "TORNTPHARM"
+    },
+    {
+        "stockSign": "TVS MOTOR COMPANY  LTD",
+        "stockName": "TVSMOTOR"
+    },
+    {
+        "stockSign": "ULTRATECH CEMENT LIMITED",
+        "stockName": "ULTRACEMCO"
+    },
+    {
+        "stockSign": "UPL LIMITED",
+        "stockName": "UPL"
+    },
+    {
+        "stockSign": "VEDANTA LIMITED",
+        "stockName": "VEDL"
+    },
+    {
+        "stockSign": "VOLTAS LTD",
+        "stockName": "VOLTAS"
+    },
+    {
+        "stockSign": "ZEE ENTERTAINMENT ENT LTD",
+        "stockName": "ZEEL"
+    },
+    {
+        "stockSign": "INFOSYS LIMITED",
+        "stockName": "INFY"
+    },
+    {
+        "stockSign": "JK CEMENT LIMITED",
+        "stockName": "JKCEMENT"
+    },
+    {
+        "stockSign": "L&T FINANCE HOLDINGS LTD",
+        "stockName": "L & TFH"
+    },
+    {
+        "stockSign": "AMBUJA CEMENTS LTD",
+        "stockName": "AMBUJACEM"
+    },
+    {
+        "stockSign": "M&M FIN. SERVICES LTD",
+        "stockName": "M & MFIN"
+    },
+    {
+        "stockSign": "MARUTI SUZUKI INDIA LTD.",
+        "stockName": "MARUTI"
+    },
+    {
+        "stockSign": "UNITED SPIRITS LIMITED",
+        "stockName": "MCDOWELL - N"
+    },
+    {
+        "stockSign": "NIPPON L I A M LTD",
+        "stockName": "NAM - INDIA"
+    },
+    {
+        "stockSign": "BIOCON LIMITED.",
+        "stockName": "BIOCON"
+    },
+    {
+        "stockSign": "COLGATE PALMOLIVE LTD.",
+        "stockName": "COLPAL"
+    },
+    {
+        "stockSign": "OBEROI REALTY LIMITED",
+        "stockName": "OBEROIRLTY"
+    },
+    {
+        "stockSign": "CITY UNION BANK LTD",
+        "stockName": "CUB"
+    },
+    {
+        "stockSign": "OIL AND NATURAL GAS CORP.",
+        "stockName": "ONGC"
+    },
+    {
+        "stockSign": "PIRAMAL ENTERPRISES LTD",
+        "stockName": "PEL"
+    },
+    {
+        "stockSign": "PERSISTENT SYSTEMS LTD",
+        "stockName": "PERSISTENT"
+    },
+    {
+        "stockSign": "PFIZER LTD",
+        "stockName": "PFIZER"
+    },
+    {
+        "stockSign": "DLF LIMITED",
+        "stockName": "DLF"
+    },
+    {
+        "stockSign": "PI INDUSTRIES LTD",
+        "stockName": "PIIND"
+    },
+    {
+        "stockSign": "HERO MOTOCORP LIMITED",
+        "stockName": "HEROMOTOCO"
+    },
+    {
+        "stockSign": "INDUS TOWERS LIMITED",
+        "stockName": "INDUSTOWER"
+    },
+    {
+        "stockSign": "TRENT LTD",
+        "stockName": "TRENT"
+    },
+    {
+        "stockSign": "ITC LTD",
+        "stockName": "ITC"
+    },
+    {
+        "stockSign": "LARSEN & TOUBRO LTD.",
+        "stockName": "LT"
+    },
+    {
+        "stockSign": "MANAPPURAM FINANCE LTD",
+        "stockName": "MANAPPURAM"
+    },
+    {
+        "stockSign": "MAX FINANCIAL SERV LTD",
+        "stockName": "MFSL"
+    },
+    {
+        "stockSign": "MUTHOOT FINANCE LIMITED",
+        "stockName": "MUTHOOTFIN"
+    },
+    {
+        "stockSign": "PAGE INDUSTRIES LTD",
+        "stockName": "PAGEIND"
+    },
+    {
+        "stockSign": "SIEMENS LTD",
+        "stockName": "SIEMENS"
+    },
+    {
+        "stockSign": "STRIDES PHARMA SCI LTD",
+        "stockName": "STAR"
+    },
+    {
+        "stockSign": "TATA MOTORS LIMITED",
+        "stockName": "TATAMOTORS"
+    },
+    {
+        "stockSign": "BANK OF BARODA",
+        "stockName": "BANKBARODA"
+    },
+    {
+        "stockSign": "INDIAMART INTERMESH LTD",
+        "stockName": "INDIAMART"
+    },
+    {
+        "stockSign": "UNITED BREWERIES LTD",
+        "stockName": "UBL"
+    },
+    {
+        "stockSign": "DALMIA BHARAT LIMITED",
+        "stockName": "DALBHARAT"
+    },
+    {
+        "stockSign": "MULTI COMMODITY EXCHANGE",
+        "stockName": "MCX"
+    },
+    {
+        "stockSign": "THE INDIA CEMENTS LIMITED",
+        "stockName": "INDIACEM"
+    },
+    {
+        "stockSign": "SYNGENE INTERNATIONAL LTD",
+        "stockName": "SYNGENE"
+    },
+    {
+        "stockSign": "HAVELLS INDIA LIMITED",
+        "stockName": "HAVELLS"
+    },
+    {
+        "stockSign": "HDFC BANK LTD",
+        "stockName": "HDFCBANK"
+    },
+    {
+        "stockSign": "LIC HOUSING FINANCE LTD",
+        "stockName": "LICHSGFIN"
+    },
+    {
+        "stockSign": "STEEL AUTHORITY OF INDIA",
+        "stockName": "SAIL"
+    },
+    {
+        "stockSign": "WIPRO LTD",
+        "stockName": "WIPRO"
+    },
+    {
+        "stockSign": "IDFC FIRST BANK LIMITED",
+        "stockName": "IDFCFIRSTB"
+    },
+    {
+        "stockSign": "VODAFONE IDEA LIMITED",
+        "stockName": "IDEA"
+    }
+]
